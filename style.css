@@ -1,0 +1,45 @@
+html {
+    font-family: Roboto, Arial;
+}
+
+.header-section{
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.header{
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+p.hero-text{
+    font-size: 48px;
+    font-weight: 800; /*Bold is 700, extra bold is 800*/
+}
+
+p.hero-subtext{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+/*****************************************/
+.card-section > p{
+    color: #1F2937;
+    font-weight: 800;
+    font-size: 36px;
+}
+
+.card {
+    background-color: #3882F6;
+}
+
+/******************************************/
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+p.quote-section {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
